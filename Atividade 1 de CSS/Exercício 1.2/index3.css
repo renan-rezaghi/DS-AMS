@@ -1,0 +1,24 @@
+body {
+    background-color: dimgray;
+}
+p.amarelo {
+    background-color: #ffff00;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-right: 20px;
+    }
+    p.azul {
+        background-color: #66CCFF;
+        font-size: 16px;
+        margin-top: 20px;
+        margin-left: 150px;
+        margin-right: 20px;
+        border: dotted;
+    }
+    p.verde {
+        background-color: #99FF66;
+        font-size: 16px;
+        margin-top: 20px;
+        margin-left: 300px;
+    margin-right: 20px;
+    }

@@ -1,0 +1,14 @@
+p.amarelo {
+    background-color: yellow;
+    font-size: 16px;
+    }
+    p.azul {
+        background-color: #66CCFF;
+        margin-right: 400px;
+        font-size: 16px;
+    }
+    p.verde {
+        background-color: #99FF66;
+        margin-right: 700px;
+        font-size: 16px;
+    }
